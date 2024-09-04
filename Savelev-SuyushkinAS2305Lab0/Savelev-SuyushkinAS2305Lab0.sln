@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Savelev-SuyushkinAS2305Lab0", "Savelev-SuyushkinAS2305Lab0.vcxproj", "{285C5C41-7956-49B6-8237-7867A54D5746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285C5C41-7956-49B6-8237-7867A54D5746}.Debug|x64.ActiveCfg = Debug|x64
+		{285C5C41-7956-49B6-8237-7867A54D5746}.Debug|x64.Build.0 = Debug|x64
+		{285C5C41-7956-49B6-8237-7867A54D5746}.Debug|x86.ActiveCfg = Debug|Win32
+		{285C5C41-7956-49B6-8237-7867A54D5746}.Debug|x86.Build.0 = Debug|Win32
+		{285C5C41-7956-49B6-8237-7867A54D5746}.Release|x64.ActiveCfg = Release|x64
+		{285C5C41-7956-49B6-8237-7867A54D5746}.Release|x64.Build.0 = Release|x64
+		{285C5C41-7956-49B6-8237-7867A54D5746}.Release|x86.ActiveCfg = Release|Win32
+		{285C5C41-7956-49B6-8237-7867A54D5746}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B556132F-794B-49FB-9175-42167B01E66B}
+	EndGlobalSection
+EndGlobal
