@@ -3,9 +3,20 @@
 
 #include <iostream>
 
-int main()
+float main()
 {
     std::cout << "Hello World!\n";
+    float x;
+    std::cin >> x;
+    if (x != 0)
+    {
+        std::cout << 10 / x;
+    }
+    else
+    {
+        std::cout << "Zero Division";
+    }
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
